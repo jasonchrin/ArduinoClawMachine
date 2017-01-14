@@ -1,0 +1,32 @@
+﻿,Part,UM BOM Part,sku,Qty,cost,total,,vendor,link
+Frame,Batlic Birch Plywood 6mm 24x30,All plywood parts,131401,3,10.5,31.5,,Woodcraft,https://www.woodcraft.com/products/baltic-birch-plywood-6mm-1-4-x-24-x-30
+Frame,Finnish Birch Plywood 4mm 24x30,All plywood parts,124879,1,24.99,24.99,,Woodcraft,https://www.woodcraft.com/products/finnish-birch-plywood-5-32-x-24-x-30
+Frame,"screws, nuts, washers",,,,,,,ebay,
+Frame,Plexiglass,,,,,,,,
+,,,,,,,56.49,,
+,,,,,,,,,
+gantry,5PCS Aluminum GT2 Timing Belt Pulley 5mm,1084,,1,10.99,10.99,,Amazon,https://www.amazon.com/gp/product/B019GI5DVC/ref=oh_aui_detailpage_o06_s00?ie=UTF8&psc=1
+gantry,5PCS Aluminum GT2 Timing Belt Pulley 8mm,1088 (x10),,2,10.99,21.98,,Amazon,https://www.amazon.com/gp/product/B019GI5DVC/ref=oh_aui_detailpage_o06_s00?ie=UTF8&psc=1
+gantry,2Pcs LM6LUU 6mm,1065,,1,9.27,9.27,,Amazon,https://www.amazon.com/gp/product/B019GIJ296/ref=oh_aui_detailpage_o06_s01?ie=UTF8&psc=1
+gantry,Linear Motion Rod 6mm x 300mm shaft,1046,,2,4.96,9.92,,Amazon,https://www.amazon.com/gp/product/B01CG7C1TM/ref=oh_aui_detailpage_o08_s00?ie=UTF8&psc=1
+gantry,2-Pack - Linear Motion Rod 8 mm x 406mm Shaft ,1011,,1,18.5,18.5,,Amazon,https://www.amazon.com/gp/product/B01I49ESN8/ref=oh_aui_detailpage_o09_s00?ie=UTF8&psc=1
+gantry,2-Pack - Linear Motion Rod 8 mm x 342 mm Shaft,1012,,1,16.95,16.95,,Amazon,https://www.amazon.com/gp/product/B01M34ZJKF/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1
+gantry,200mm GT2 Belt loops (10pk),1086 (x4),,1,12.88,12.88,,Amazon,https://www.amazon.com/gp/product/B01FNT093A/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1
+gantry,5M GT2 Belt,1085 (x2),,1,10.32,10.32,,Amazon,https://www.amazon.com/gp/product/B00F2IQNX8/ref=oh_aui_detailpage_o02_s01?ie=UTF8&psc=1
+,,,,,,,110.81,,
+,,,,,,,,,
+electronics,Limit Switch,1082,,1,2.2,2.2,,Amazon,https://www.amazon.com/uxcell-Micro-Switch-Roller-Action/dp/B00E0JOTV8/ref=pd_sim_421_38?_encoding=UTF8&psc=1&refRID=TPAC8YBE4RS63M762CK7
+electronics,Nema 17 Stepper,1023,,2,12.99,25.98,,Amazon,https://www.amazon.com/Stepper-Motor-Bipolar-64oz-Printer/dp/B00PNEQI7W/ref=pd_sim_328_6?_encoding=UTF8&psc=1&refRID=S72E76NM0NRH0A92PT6S
+electronics,10 Pin 2Bit 7 Segment LED 25x19,,,1,2.83,2.83,,Amazon,https://www.amazon.com/gp/product/B00HR7E30M/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1
+electronics,Big red button,,,1,6.55,6.55,,Amazon,https://www.amazon.com/gp/product/B008MU3UM0/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1
+electronics,Joystick,,,1,25.95,25.95,,Amazon,https://www.amazon.com/gp/product/B00BFL2SSA/ref=oh_aui_detailpage_o00_s01?ie=UTF8&psc=1
+electronics,Green Lamp 24mm Dia Push Button,,,1,4.95,4.95,,Amazon,https://www.amazon.com/gp/product/B008MU3Q9W/ref=od_aui_detailpages00?ie=UTF8&psc=1
+electronics,120v 10A DC power supply,,,1,12.99,12.99,,Amazon,https://www.amazon.com/gp/product/B008MU0CHG/ref=oh_aui_detailpage_o08_s00?ie=UTF8&psc=1
+electronics,74HC595 8bit Shft Register,,,1,5.95,5.95,,Amazon,https://www.amazon.com/gp/product/B00HPPOXM4/ref=oh_aui_detailpage_o07_s00?ie=UTF8&psc=1
+electronics,30pc 2.54 DIP IC socket,,,1,10.42,10.42,,Amazon,https://www.amazon.com/gp/product/B0079SM1LW/ref=oh_aui_detailpage_o05_s00?ie=UTF8&psc=1
+electronics,Arduino Mega,,,1,27.22,27.22,,Amazon,https://www.amazon.com/ARDUINO-A000067-ATMEGA2560-2560-R3/dp/B0046AMGW0/ref=sr_1_5?s=pc&ie=UTF8&qid=1484361789&sr=1-5&keywords=arduino+mega
+electronics,EasyDriver,,,2,8,16,,Amazon,https://www.amazon.com/gp/product/B004G4XR60/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1
+electronics,raspberry pi,,,,,,,,
+electronics,drop motor,,,,,,,,
+electronics,wiring,,,,,,,,
+,,,,,,,141.04,,
